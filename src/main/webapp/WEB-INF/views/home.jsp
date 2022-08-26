@@ -9,6 +9,7 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<h3><a href="hello.action">Spring 환영 메세지</a></h3>
+
 </body>
 </html>
